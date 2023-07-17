@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\bin\Debug\net7.0\linearsearch.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\bin\Debug\net7.0\linearsearch.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\bin\Debug\net7.0\linearsearch.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\bin\Debug\net7.0\linearsearch.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\bin\Debug\net7.0\linearsearch.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\refint\linearsearch.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\linearsearch.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\linearsearch\obj\Debug\net7.0\ref\linearsearch.dll

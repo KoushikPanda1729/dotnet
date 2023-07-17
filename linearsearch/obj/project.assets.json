@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\program\\dotNet\\linearsearch\\linearsearch.csproj",
+      "projectUniqueName": "C:\\Users\\Koushik Panda\\OneDrive\\Desktop\\.net\\linearsearch\\linearsearch.csproj",
       "projectName": "linearsearch",
-      "projectPath": "D:\\program\\dotNet\\linearsearch\\linearsearch.csproj",
+      "projectPath": "C:\\Users\\Koushik Panda\\OneDrive\\Desktop\\.net\\linearsearch\\linearsearch.csproj",
       "packagesPath": "C:\\Users\\Koushik Panda\\.nuget\\packages\\",
-      "outputPath": "D:\\program\\dotNet\\linearsearch\\obj\\",
+      "outputPath": "C:\\Users\\Koushik Panda\\OneDrive\\Desktop\\.net\\linearsearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Koushik Panda\\AppData\\Roaming\\NuGet\\NuGet.Config"
