@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\bin\Debug\net7.0\selectionSort.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\bin\Debug\net7.0\selectionSort.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\bin\Debug\net7.0\selectionSort.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\bin\Debug\net7.0\selectionSort.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\bin\Debug\net7.0\selectionSort.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\refint\selectionSort.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\selectionSort.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\selectionSort\obj\Debug\net7.0\ref\selectionSort.dll

@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\bin\Debug\net7.0\primeNumFromArray.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\bin\Debug\net7.0\primeNumFromArray.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\bin\Debug\net7.0\primeNumFromArray.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\bin\Debug\net7.0\primeNumFromArray.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\bin\Debug\net7.0\primeNumFromArray.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\refint\primeNumFromArray.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\primeNumFromArray.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\primeNumFromArray\obj\Debug\net7.0\ref\primeNumFromArray.dll

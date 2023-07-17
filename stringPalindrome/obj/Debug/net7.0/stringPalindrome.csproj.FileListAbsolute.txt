@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\bin\Debug\net7.0\stringPalindrome.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\bin\Debug\net7.0\stringPalindrome.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\bin\Debug\net7.0\stringPalindrome.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\bin\Debug\net7.0\stringPalindrome.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\bin\Debug\net7.0\stringPalindrome.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\refint\stringPalindrome.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\stringPalindrome.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\dotNet\stringPalindrome\obj\Debug\net7.0\ref\stringPalindrome.dll
