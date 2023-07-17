@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\bin\Debug\net7.0\celciusToFar.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\bin\Debug\net7.0\celciusToFar.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\bin\Debug\net7.0\celciusToFar.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\bin\Debug\net7.0\celciusToFar.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\bin\Debug\net7.0\celciusToFar.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\refint\celciusToFar.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\celciusToFar.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\celciusToFar\obj\Debug\net7.0\ref\celciusToFar.dll

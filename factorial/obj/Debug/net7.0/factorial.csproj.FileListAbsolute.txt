@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\bin\Debug\net7.0\factorial.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\bin\Debug\net7.0\factorial.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\bin\Debug\net7.0\factorial.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\bin\Debug\net7.0\factorial.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\bin\Debug\net7.0\factorial.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\refint\factorial.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\factorial.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\factorial\obj\Debug\net7.0\ref\factorial.dll

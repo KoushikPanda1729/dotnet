@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\bin\Debug\net7.0\vowelCount.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\bin\Debug\net7.0\vowelCount.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\bin\Debug\net7.0\vowelCount.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\bin\Debug\net7.0\vowelCount.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\bin\Debug\net7.0\vowelCount.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\refint\vowelCount.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\vowelCount.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\vowelCount\obj\Debug\net7.0\ref\vowelCount.dll

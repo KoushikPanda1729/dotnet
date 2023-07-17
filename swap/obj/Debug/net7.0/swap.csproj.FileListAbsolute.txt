@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\bin\Debug\net7.0\swap.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\bin\Debug\net7.0\swap.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\bin\Debug\net7.0\swap.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\bin\Debug\net7.0\swap.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\bin\Debug\net7.0\swap.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\refint\swap.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\swap.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\swap\obj\Debug\net7.0\ref\swap.dll

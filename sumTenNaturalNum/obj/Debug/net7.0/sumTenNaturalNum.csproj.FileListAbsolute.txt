@@ -1,0 +1,15 @@
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\bin\Debug\net7.0\sumTenNaturalNum.exe
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\bin\Debug\net7.0\sumTenNaturalNum.deps.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\bin\Debug\net7.0\sumTenNaturalNum.runtimeconfig.json
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\bin\Debug\net7.0\sumTenNaturalNum.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\bin\Debug\net7.0\sumTenNaturalNum.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.csproj.AssemblyReference.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.AssemblyInfoInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.AssemblyInfo.cs
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.csproj.CoreCompileInputs.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\refint\sumTenNaturalNum.dll
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.pdb
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\sumTenNaturalNum.genruntimeconfig.cache
+C:\Users\Koushik Panda\OneDrive\Desktop\.net\sumTenNaturalNum\obj\Debug\net7.0\ref\sumTenNaturalNum.dll
